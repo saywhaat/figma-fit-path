@@ -1,0 +1,13 @@
+{
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "name": "fit-path",
+  "id": "fit-path",
+  "main": "build/main.js",
+  "parameters": [
+    {
+      "name": "Tolerance",
+      "key": "tolerance"
+    }
+  ]
+}
